@@ -10,7 +10,7 @@ Mentor:Muzammil Ahmed
 # Clustering Analysis Project
 
 ## Overview
-# A Python-based implementation of unsupervised learning techniques for clustering analysis. The project includes K-means, DBSCAN, and Hierarchical clustering algorithms with evaluation metrics and visualizations.
+A Python-based implementation of unsupervised learning techniques for clustering analysis. The project includes K-means, DBSCAN, and Hierarchical clustering algorithms with evaluation metrics and visualizations.
 
 ## Features
 - Multiple clustering algorithms (K-means, DBSCAN, Hierarchical)
