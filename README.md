@@ -27,6 +27,6 @@ Mentor:Muzammil Ahmed
 - Matplotlib
 
 ## Contact
-Your Name - rehanpatelamgmail.com
+Your Name - rehanpatelam@gmail.com
 
 Project Link: https://github.com/yourusername/clustering-analysis
